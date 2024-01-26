@@ -2,7 +2,6 @@ package com.example.messaggingdemo
 
 import com.google.android.gms.tasks.OnCompleteListener
 import com.google.firebase.messaging.FirebaseMessaging
-import kotlin.coroutines.resume
 import kotlin.coroutines.suspendCoroutine
 
 class FirebaseDataSource {
